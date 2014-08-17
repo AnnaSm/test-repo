@@ -1,4 +1,5 @@
 ## Discworld Ankh-Morpork Collector’s Edition
+========
 
 _Treefrog released a Collector’s Edition of the Ankh-Morpork game. As well as having a different box cover, wooden coins, a larger map (620mm x540mm as opposed to 520mm x 430mm), and a poster with artwork from the game, the Collector’s Edition avoids the use of the number eight (for reasons that should be well known to those versed in Discworld lore). It’s not a big change, but it does mean the production of a special 12 sided die and the separate printing of the cards just to make sure the one with 8 on it has 7a instead (Treefrog will go to any lengths for thematic accuracy!). For those who wish to sleeve their cards you will need the standard European board game size, 59mm x 92mm._
 
